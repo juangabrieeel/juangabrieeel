@@ -1,16 +1,40 @@
-## Hi there 👋
+¡Hola! 👋 Soy Juan Gabriel
 
-<!--
-**juangabrieeel/juangabrieeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Tecnologías
+Lenguajes de programación:
+Java
+PHP
+Python
+JavaScript
+TypeScript
 
-Here are some ideas to get you started:
+Frameworks y bibliotecas:
+VueJS
+NodeJS
+Spring Boot
+Angular
+Laravel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Base de datos:
+MySQL
+Oracle
+PostgreSQL
+SQL Server
+
+Herramientas de desarrollo:
+VSCode
+Netbeans
+Eclipse
+Docker
+
+💼 Experiencia
+ÉVOLUTION SYNERGÉTIQUE - Junior FullStack (10/12/2023 - Actual)
+Desarrollo de proyectos internos para diferentes web con VueJS, NODE, MongoDB y Dockers.
+
+Incrementa Marketing -  Desarrollador Web (03/2023 - 06/2023)
+Desarrollo de proyectos internos para diferentes web con Wordpress.
+
+📫 Cómo contactarme
+LinkedIn: https://www.linkedin.com/in/juan-gabriel-caro-diaz/
+Correo electrónico: juangabrielcarodiaz16@gmail.com
+¡Gracias por visitar mi perfil! 😊
