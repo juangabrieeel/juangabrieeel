@@ -31,13 +31,17 @@ Docker
 💼 Experiencia
 
 ÉVOLUTION SYNERGÉTIQUE - Junior FullStack (10/12/2023 - Actual)
+
 Desarrollo de proyectos internos para diferentes web con VueJS, NODE, MongoDB y Dockers.
 
 Incrementa Marketing -  Desarrollador Web (03/2023 - 06/2023)
+
 Desarrollo de proyectos internos para diferentes web con Wordpress.
 
 📫 Cómo contactarme
 
 LinkedIn: https://www.linkedin.com/in/juan-gabriel-caro-diaz/
+
 Correo electrónico: juangabrielcarodiaz16@gmail.com
+
 ¡Gracias por visitar mi perfil! 😊
