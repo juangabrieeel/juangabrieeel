@@ -21,6 +21,7 @@ MySQL
 Oracle
 PostgreSQL
 SQL Server
+Mongo
 
 Herramientas de desarrollo:
 VSCode
