@@ -30,7 +30,7 @@ Docker
 
 💼 Experiencia
 
-ÉVOLUTION SYNERGÉTIQUE - Junior FullStack (10/12/2023 - Actual)
+ÉVOLUTION SYNERGÉTIQUE - Junior FullStack (12/2023 - 06/2024)
 
 Desarrollo de proyectos internos para diferentes web con VueJS, NODE, MongoDB y Dockers.
 
