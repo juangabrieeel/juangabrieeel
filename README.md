@@ -5,7 +5,6 @@
 Lenguajes de programación:
 Java
 PHP
-Python
 JavaScript
 TypeScript
 
